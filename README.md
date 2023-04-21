@@ -10,3 +10,6 @@
 3.All volumes
 
 ``` lsblk ```
+4. Mounting Volumes
+
+``` sudo mount /dev/sda4 ~/mountpoint ```
